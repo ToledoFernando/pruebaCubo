@@ -1,3 +1,3 @@
 # Cubo 3D
 
-!Link[Link de la pagina](https://toledofernando.github.io/pruebaCubo/)
+> ##[Link del cubo 3D](https://toledofernando.github.io/pruebaCubo/)
